@@ -9,6 +9,8 @@ ___
 ___
 * Inside root folder create .gitignore file 
 * Inside .gitignore write => 
+* node_modules
+* .env
 
 
 

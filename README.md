@@ -7,7 +7,9 @@ ___
 * git init 
 
 ___
-* Inside root folder create .gitignore file 
+* Inside root folder create file => .gitignore 
+* Under package.json create file => .env
+___
 * Inside .gitignore write => 
 * node_modules
 * .env

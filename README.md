@@ -8,6 +8,7 @@ ___
 
 ___
 * Inside root folder create .gitignore file 
+* Inside .gitignore write => 
 
 
 

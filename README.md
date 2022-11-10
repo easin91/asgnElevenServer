@@ -4,7 +4,7 @@ ___
 ___
 * npm init -y
 * npm i express cors mongodb dotenv
-* 
+* git init 
 
 
 

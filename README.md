@@ -5,6 +5,8 @@ ___
 * npm init -y
 * npm i express cors mongodb dotenv
 * git init 
+
+___
 * Inside root folder create .gitignore file 
 
 

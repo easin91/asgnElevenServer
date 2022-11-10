@@ -3,6 +3,7 @@ ___
 # ** Step by step code in CMD **
 ___
 * npm init -y
+* npm i express cors mongodb dotenv
 * 
 
 

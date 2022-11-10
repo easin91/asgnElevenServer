@@ -2,7 +2,8 @@
 ___
 # ** Step by step code in CMD **
 ___
-
+* npm init -y
+* 
 
 
 
